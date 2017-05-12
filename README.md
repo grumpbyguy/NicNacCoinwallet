@@ -1,7 +1,7 @@
 **1. Create git submodule.**
 
 ```
-git submodule add https://github.com/grumpbyguy/NicNacCoinwallet.git NicNacCoin
+git submodule add https://github.com/grumpbyguy/NicNacCoinwallet.git NicNacCoinwallet
 ```
 
 **2. Build**
