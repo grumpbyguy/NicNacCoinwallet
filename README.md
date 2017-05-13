@@ -26,3 +26,7 @@ cmake -G "Visual Studio 12 Win64" ..
 
 ```
 **And then do Build.**
+
+```
+In 'build' folder solution for Visual Studio will be created
+Open in with Visual Studio and make build there
