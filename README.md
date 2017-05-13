@@ -1,6 +1,7 @@
 1. Clone wallet sources
 
 git clone https://github.com/grumpbyguy/NicNacCoinwallet.git
+
 2. Set symbolic link to coin sources at the same level as src. For example:
 
 ln -s ../NicNacCoin NicNacGui
