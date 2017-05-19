@@ -14,7 +14,7 @@ ln -s ../NicNacCoin NicNacGui
 Alternative way is to create git submodule:
 
 ```
-git submodule add https://github.com/grumpbyguy/NicNacCoin.git NicNacCoinsGUIw
+git submodule add https://github.com/grumpbyguy/NicNacCoin.git cryptonote
 ```
 
 **3. Build**
